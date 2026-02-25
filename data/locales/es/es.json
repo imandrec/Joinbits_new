@@ -1,0 +1,862 @@
+{
+  "contactTitle": "Saluda y comencemos a trabajar juntos.",
+  "faqTitle": "Preguntas Frecuentes",
+  "faqDescription": "Encuentra respuestas sobre nuestro proceso de ingeniería, tiempos, arquitectura y modelo de entrega.",
+
+  "hero": {
+    "title": "Desarrollamos Software a Medida. Impulsamos la Innovación.",
+    "description": "Entregamos soluciones de software personalizadas, sitios web de alto rendimiento e integraciones en la nube además de proveer ingenieros de primer nivel para acelerar tu roadmap. El equipo correcto, el talento correcto y los resultados correctos.",
+    "buttons": {
+      "services": "Nuestros Servicios",
+      "talent": "Talento en Ingeniería",
+      "start": "Iniciar un Proyecto"
+    },
+    "features": {
+      "software": "Desarrollo de Software a Medida",
+      "web": "Sitios Web y Aplicaciones Web",
+      "cloud": "Integración en la Nube y DevOps",
+      "staffing": "Staffing en Java, .NET y DevOps"
+    }
+  },
+    "home": {
+    "about": {
+      "caption": "Acerca de JoinBits",
+      "title": "Ingeniería escalable para negocios modernos.",
+      "linkPrimary": "Agendar una Consulta",
+      "linkHover": "Contáctanos"
+    },
+    "how": {
+      "title": "Cómo JoinBits Entrega Resultados",
+      "button": "Habla con Nuestro Equipo"
+    }
+  },
+  "about": {
+    "imageAlt": "Equipo de JoinBits trabajando en software escalable",
+    "decorationAlt": "Forma decorativa ondulada",
+    "blocks": {
+      "scaleTitle": "Tecnología que Escala",
+      "scaleText": "En JoinBits construimos sistemas de software seguros y escalables, diseñados para crecer a largo plazo. Nuestro equipo combina arquitectura moderna, automatización y buenas prácticas de código para entregar soluciones confiables.",
+      "limitsTitle": "Ingeniería sin Límites",
+      "limitsText": "Ya sea que necesites un equipo dedicado o un producto completo desde cero, nos integramos de forma natural con tu organización para acelerar la innovación y la ejecución."
+    }
+  },
+  "contactTitle": "Contáctanos",
+
+  "faq": {
+    "titlecontact": "Preguntas Frecuentes",
+    "descriptioncontact": "En JoinBits Technologies, trabajamos con empresas para diseñar y desarrollar sistemas de software modernos que sean escalables, seguros y preparados para el futuro. Desde desarrollo personalizado hasta automatización con IA, convertimos ideas complejas en soluciones listas para producción."
+  },
+  "common": {
+    "contactUs": "Contáctanos"
+  },
+  "consultingPageMain": {
+    "heroTitle": "Talento senior en .NET (C#), Java y DevOps para escalar tu equipo.",
+    "heroDescription": "JoinBits aporta ingenieros validados y liderazgo técnico para ayudarte a entregar más rápido: desarrollo de APIs, backends modernos, integración con la nube y modernización de sistemas.",
+    "ctaDescription": "¿Necesitas ayuda con .NET, Java o DevOps? Contáctanos para una llamada de diagnóstico gratis y te recomendaremos el mejor modelo: refuerzo de equipo, entrega por proyecto o un squad dedicado.",
+    "jumpstartTitle": "Impulso de Ingeniería para tu Roadmap",
+    "jumpstartDescription": "Acelera la entrega con ingenieros senior que se integran rápido, trabajan dentro de tu proceso y entregan código listo para producción. Desde microservicios hasta integraciones, nos enfocamos en resultados medibles.",
+    "missionTitle": "Nuestra misión es simplificar la contratación de talento en ingeniería de software.",
+    "missionDescription": "En JoinBits conectamos empresas con ingenieros especializados en .NET (C#) y Java para plataformas modernas. Construimos APIs robustas, arquitecturas de microservicios y soluciones backend escalables alineadas con estándares empresariales. Gestionamos despliegues en la nube, automatizamos procesos con CI/CD e implementamos prácticas DevOps para garantizar eficiencia y estabilidad operativa. Desde la modernización de sistemas legacy hasta el diseño de nuevas arquitecturas cloud native, trabajamos con enfoque en resultados medibles, comunicación clara y colaboración estratégica a largo plazo."
+},
+
+  "consultingPage": {
+    "services": {
+      "items": [
+        {
+          "title": "Desarrollo Empresarial .NET (C#)",
+          "text": "Diseño y desarrollo de APIs escalables, microservicios y sistemas backend empresariales utilizando frameworks modernos de .NET (C#) y buenas prácticas."
+        },
+        {
+          "title": "Ingeniería Backend Java",
+          "text": "Arquitecturas basadas en Spring, servicios backend de alto rendimiento y modernización de plataformas Java legacy alineadas con estándares empresariales."
+        },
+        {
+          "title": "Arquitectura de Microservicios y APIs",
+          "text": "Diseño de sistemas distribuidos robustos, APIs RESTful, orquestación de servicios y ecosistemas backend escalables preparados para el crecimiento."
+        },
+        {
+          "title": "Cloud y Habilitación DevOps",
+          "text": "Automatización CI/CD, contenedorización, infraestructura como código y despliegues en la nube para garantizar confiabilidad y escalabilidad."
+        },
+        {
+          "title": "Modernización de Sistemas Legacy",
+          "text": "Refactorización y modernización de sistemas .NET y Java hacia arquitecturas modernas y cloud ready sin interrumpir la operación del negocio."
+        },
+        {
+          "title": "Staff Augmentation y Equipos Dedicados",
+          "text": "Ingenieros bajo demanda o squads dedicados integrados a tu proceso, alineados con tu roadmap y objetivos de entrega."
+        }
+      ]
+    }
+  },
+"consultingservice": {
+  "title": "Talento de Ingeniería Senior para Empresas Modernas",
+  "subtitle": "Servicios de Consultoría y Staffing",
+  "intro": {
+    "p1": "En JoinBits proporcionamos ingenieros senior en .NET (C#), Java, Cloud y DevOps que se integran de manera fluida a tus equipos existentes. Nuestros profesionales aportan pensamiento arquitectónico sólido, buenas prácticas de desarrollo y experiencia en entornos empresariales."
+  },
+  "tabs": {
+    "t1": "Ingenieros .NET (C#)",
+    "t2": "Ingenieros Java",
+    "t3": "Ingenieros Cloud"
+  },
+  "content": {
+    "c1": {
+      "title": "Ingenieros .NET (C#)",
+      "text": "Desarrolladores .NET con amplia experiencia en APIs, microservicios, sistemas empresariales y plataformas backend escalables construidas con arquitecturas modernas."
+    },
+    "c2": {
+      "title": "Ingenieros Java",
+      "text": "Ingenieros Java senior con experiencia en Spring Boot, sistemas distribuidos, servicios de alto rendimiento e integraciones backend de nivel empresarial."
+    },
+    "c3": {
+      "title": "Ingenieros DevOps",
+      "text": "Automatización CI/CD, orquestación de contenedores, gestión de releases, monitoreo y optimización de infraestructura para mejorar la velocidad y estabilidad de las entregas."
+    }
+  }
+},
+"privacy": {
+  "heroTitle": "Política de Privacidad",
+
+  "intro": "Esta Política de Privacidad explica cómo JoinBits Technologies (“JoinBits,” “nosotros” o “nuestro”) recopila, utiliza, divulga y protege tu información cuando visitas nuestro sitio web, nos contactas o utilizas nuestros servicios. Al usar nuestro sitio o servicios, aceptas las prácticas descritas en esta política.",
+
+  "sections": {
+    "s1": {
+      "title": "1. Información que Recopilamos",
+      "intro": "Podemos recopilar los siguientes tipos de información:",
+      "items": {
+        "i1": "Información de contacto: nombre, correo electrónico, teléfono, empresa, cargo e información enviada mediante formularios.",
+        "i2": "Información relacionada con servicios: detalles de proyectos, requisitos y comunicaciones compartidas.",
+        "i3": "Datos de uso: tipo de dispositivo, navegador, páginas visitadas, IP y datos de interacción (mediante cookies/analítica).",
+        "i4": "Preferencias de marketing: tus preferencias de comunicación."
+      }
+    },
+
+    "s2": {
+      "title": "2. Cómo Utilizamos tu Información",
+      "intro": "Usamos tu información para:",
+      "items": {
+        "i1": "Responder consultas y brindar soporte.",
+        "i2": "Entregar servicios, propuestas y comunicaciones de proyectos.",
+        "i3": "Mejorar el rendimiento y experiencia del sitio web.",
+        "i4": "Enviar actualizaciones y comunicaciones de marketing cuando sea permitido.",
+        "i5": "Proteger contra fraude e incidentes de seguridad.",
+        "i6": "Cumplir con obligaciones legales."
+      }
+    },
+
+    "s3": {
+      "title": "3. Cookies y Analítica",
+      "text": "Utilizamos cookies y tecnologías similares para operar nuestro sitio y analizar el tráfico. Puedes controlar las cookies desde la configuración de tu navegador."
+    },
+
+    "s4": {
+      "title": "4. Cómo Compartimos Información",
+      "intro": "No vendemos tu información personal. Podemos compartir datos en casos limitados:",
+      "items": {
+        "i1": "Proveedores de servicios que apoyan hosting, analítica y comunicaciones.",
+        "i2": "Cumplimiento legal cuando sea requerido por ley.",
+        "i3": "Transferencias empresariales en caso de fusión o adquisición."
+      }
+    },
+
+    "s5": {
+      "title": "5. Seguridad de los Datos",
+      "text": "Implementamos medidas administrativas y técnicas razonables. Sin embargo, ningún método es 100% seguro."
+    },
+
+    "s6": {
+      "title": "6. Retención de Datos",
+      "text": "Conservamos la información personal únicamente el tiempo necesario para los fines descritos en esta política."
+    },
+
+    "s7": {
+      "title": "7. Tus Derechos",
+      "text": "Dependiendo de tu ubicación, puedes tener derecho a acceder, corregir o eliminar tu información personal."
+    },
+
+    "s8": {
+      "title": "8. Enlaces a Terceros",
+      "text": "No somos responsables por las prácticas de privacidad de sitios web de terceros."
+    },
+
+    "s9": {
+      "title": "9. Transferencias Internacionales",
+      "text": "Tu información puede procesarse en Estados Unidos u otras jurisdicciones donde operen nuestros proveedores."
+    },
+
+    "s10": {
+      "title": "10. Cambios en esta Política",
+      "text": "Podemos actualizar esta política periódicamente. El uso continuo del sitio implica aceptación de los cambios."
+    },
+
+    "s11": {
+      "title": "11. Contáctanos",
+      "text": "Si tienes preguntas sobre esta Política de Privacidad, contáctanos en:"
+    }
+  },
+
+  "cta": {
+    "text": "¿Tienes preguntas sobre privacidad o necesitas un NDA/SOW personalizado para tu proyecto? Contáctanos y te ayudaremos.",
+    "button": "Contáctanos"
+  }
+},
+
+  "terms": {
+    "heroTitle": "Términos y Condiciones",
+
+    "intro": "Estos Términos y Condiciones (“Términos”) regulan tu acceso y uso del sitio web y los servicios proporcionados por JoinBits Technologies (“JoinBits,” “nosotros” o “nuestro”). Al acceder a este sitio web o contratar nuestros servicios, aceptas quedar sujeto a estos Términos.",
+
+    "sections": {
+      "s1": {
+        "title": "1. Uso del Sitio Web",
+        "text": "Aceptas utilizar este sitio web únicamente para fines legales. No podrás utilizar el sitio de ninguna manera que pueda dañar, deshabilitar, sobrecargar o afectar nuestros sistemas o interferir con el acceso de otros usuarios."
+      },
+
+      "s2": {
+        "title": "2. Servicios",
+        "text": "JoinBits proporciona servicios de ingeniería de software, soluciones de IA y automatización, arquitectura cloud, integración de automatización industrial, staffing y consultoría. Los entregables específicos, cronogramas, alcance y precios se definen en acuerdos, propuestas o Statements of Work (SOW) independientes."
+      },
+
+      "s3": {
+        "title": "3. Propiedad Intelectual",
+        "items": [
+          "JoinBits conserva la propiedad de toda la propiedad intelectual preexistente, frameworks, herramientas y metodologías.",
+          "Los entregables desarrollados a medida se rigen por el acuerdo aplicable con el cliente.",
+          "El contenido del sitio web, la marca, logotipos y materiales son propiedad de JoinBits y no pueden reproducirse sin autorización escrita."
+        ]
+      },
+
+      "s4": {
+        "title": "4. Pagos y Facturación",
+        "text": "Los términos de pago se establecen en acuerdos firmados o facturas. El incumplimiento de pagos puede resultar en la suspensión o terminación de los servicios. Los honorarios no son reembolsables salvo que se indique lo contrario por escrito."
+      },
+
+      "s5": {
+        "title": "5. Confidencialidad",
+        "text": "Ambas partes acuerdan mantener la confidencialidad de la información propietaria o sensible compartida durante los proyectos. Obligaciones adicionales pueden definirse en un Acuerdo de Confidencialidad (NDA)."
+      },
+
+      "s6": {
+        "title": "6. Limitación de Responsabilidad",
+        "text": "En la máxima medida permitida por la ley, JoinBits no será responsable por daños indirectos, incidentales, consecuenciales, especiales o punitivos, incluyendo pérdida de ganancias, interrupción del negocio o pérdida de datos derivados del uso de nuestros servicios o sitio web."
+      },
+
+      "s7": {
+        "title": "7. Exclusión de Garantías",
+        "text": "Los servicios y el contenido del sitio web se proporcionan “tal cual” sin garantías de ningún tipo, expresas o implícitas. No garantizamos operación ininterrumpida, segura o libre de errores."
+      },
+
+      "s8": {
+        "title": "8. Servicios de Terceros",
+        "text": "Nuestros servicios pueden depender de plataformas de terceros, APIs, proveedores de hosting o integraciones. JoinBits no es responsable por fallos o cambios causados por servicios de terceros."
+      },
+
+      "s9": {
+        "title": "9. Terminación",
+        "text": "Nos reservamos el derecho de terminar o suspender servicios en caso de incumplimiento de estos Términos o acuerdos aplicables. Las condiciones de terminación del proyecto se rigen por el contrato o SOW correspondiente."
+      },
+
+      "s10": {
+        "title": "10. Ley Aplicable",
+        "text": "Estos Términos se regirán por las leyes del Estado de Florida, Estados Unidos, sin considerar principios de conflicto de leyes."
+      },
+
+      "s11": {
+        "title": "11. Cambios a los Términos",
+        "text": "Podemos actualizar estos Términos ocasionalmente. El uso continuo del sitio web o servicios después de las actualizaciones constituye aceptación de los Términos revisados."
+      },
+
+      "s12": {
+        "title": "12. Información de Contacto",
+        "text": "Si tienes preguntas sobre estos Términos y Condiciones, contáctanos:"
+      }
+    },
+
+    "contact": {
+      "emailLabel": "Correo"
+    },
+
+    "cta": {
+      "text": "¿Tienes preguntas sobre nuestros términos legales o necesitas un contrato personalizado para tu proyecto? Contacta a nuestro equipo.",
+      "button": "Contáctanos"
+    }
+  },
+  
+  "common": {
+    "contactUs": "Contáctanos"
+  },
+  "faqPage": {
+    "heroTitle": "Preguntas Frecuentes",
+    "items": [
+      {
+        "question": "¿Qué servicios ofrece JoinBits?",
+        "answer": "Proveemos ingenieros senior en .NET (C#), Java, Cloud y DevOps mediante staffing, staff augmentation y equipos dedicados—para que puedas escalar rápido sin sacrificar calidad."
+      },
+      {
+        "question": "¿Ofrecen equipos dedicados o ingenieros individuales?",
+        "answer": "Ambos. Puedes contratar un ingeniero para cubrir una necesidad puntual, o podemos armar un equipo dedicado con líder y la combinación correcta de backend, cloud y DevOps."
+      },
+      {
+        "question": "¿Qué tan rápido pueden iniciar los ingenieros?",
+        "answer": "Normalmente en cuestión de días—no meses. Alineamos requisitos, confirmamos disponibilidad e integramos al equipo en tus herramientas y procesos (Jira, GitHub/Azure DevOps, Slack, etc.)."
+      },
+      {
+        "question": "¿Con qué industrias trabajan?",
+        "answer": "Apoyamos múltiples industrias como SaaS, fintech, logística, e-commerce y entornos enterprise—donde el backend escalable y la entrega en cloud son críticos."
+      },
+      {
+        "question": "¿Cómo garantizan la calidad del trabajo?",
+        "answer": "Nuestros ingenieros aplican arquitectura limpia, buenas prácticas de code review, estándares de testing y disciplina DevOps. Además, mantenemos comunicación clara y reportes constantes."
+      }
+    ],
+    "ctaText": "¿Quieres escalar tu equipo de ingeniería con talento senior? Hablemos de tus necesidades y te conectamos con ingenieros .NET, Java, Cloud o DevOps."
+  
+},
+
+  "featureItemsHome": {
+    "enterprise": {
+      "title": "Ingeniería de Nivel Empresarial",
+      "description": "Liderado por ingenieros con experiencia real en automatización a gran escala, software empresarial y sistemas de misión crítica."
+    },
+    "ai": {
+      "title": "IA y Automatización Inteligente",
+      "description": "Diseñamos soluciones impulsadas por inteligencia artificial y automatizamos flujos de trabajo empresariales para mejorar la eficiencia, reducir costos y acelerar el crecimiento."
+    },
+    "cloud": {
+      "title": "Arquitectura en la Nube y Escalable",
+      "description": "Plataformas seguras, preparadas para la nube y escalables, construidas con prácticas modernas de DevOps para respaldar la expansión empresarial a largo plazo."
+    }},
+    
+  "benefitsHome": {
+    "caption": "Ventaja JoinBits",
+    "title": "¿Por qué elegir JoinBits?",
+    "description": "Combinamos ingeniería de software, automatización con IA y experiencia en sistemas industriales para ofrecer soluciones escalables y listas para producción."
+  },
+"testimonials": {
+  "title": "Construyendo el futuro",
+  "highlight": "con IA & software escalable.",
+  "imageAlt": "Imagen del cliente",
+  "prev": "Diapositiva anterior",
+  "next": "Siguiente diapositiva",
+  "items": [
+    {
+      "quote": "JoinBits entregó una solución escalable que optimizó nuestras operaciones internas y redujo la carga manual en más del 40%. Su equipo de ingeniería se sintió como una extensión del nuestro.",
+      "author": "Michael R.",
+      "role": "Director de Operaciones"
+    },
+    {
+      "quote": "Desde la arquitectura hasta el despliegue, el equipo de JoinBits demostró una profunda experiencia técnica y una comunicación excepcional. Nos ayudaron a modernizar nuestra plataforma con total confianza.",
+      "author": "Sarah L.",
+      "role": "CTO"
+    },
+    {
+      "quote": "Nos asociamos con JoinBits para automatización impulsada por IA y los resultados fueron medibles en cuestión de semanas. Profesionales, confiables y altamente capacitados.",
+      "author": "David M.",
+      "role": "Vicepresidente de Tecnología"
+    }
+  ]
+},
+"brands": {
+  "title": "Tecnologías que utilizamos"
+},
+"features": {
+  "prev": "Diapositiva anterior",
+  "next": "Siguiente diapositiva",
+  "items": [
+    {
+      "title": "Excelencia en Ingeniería",
+      "description": "Software escalable construido con arquitectura limpia, seguridad y rendimiento en mente."
+    },
+    {
+      "title": "Talento de Ingeniería de Alto Nivel",
+      "description": "Staff augmentation y equipos dedicados: .NET, Java, DevOps, IA y automatización."
+    },
+    {
+      "title": "IA y Automatización",
+      "description": "Automatiza flujos de trabajo y decisiones con IA práctica que genera impacto medible."
+    },
+    {
+      "title": "Cloud y DevOps",
+      "description": "Despliegues confiables, CI/CD y arquitectura en la nube diseñada para escalar y garantizar disponibilidad."
+    }
+  ]
+},
+"features2": {
+  "items": [
+    {
+      "title": "Ingeniería de Software a Medida",
+      "description": "Diseñamos y desarrollamos soluciones de software escalables y seguras, adaptadas a los objetivos de tu negocio y necesidades operativas."
+    },
+    {
+      "title": "IA y Automatización Inteligente",
+      "description": "Aprovecha sistemas impulsados por IA y automatización para optimizar procesos, reducir costos y acelerar la toma de decisiones."
+    },
+    {
+      "title": "Cloud y Arquitectura",
+      "description": "Arquitecturas modernas nativas en la nube diseñadas para alto rendimiento, resiliencia y escalabilidad a largo plazo."
+    },
+    {
+      "title": "Talento de Ingeniería de Alto Nivel",
+      "description": "Accede a ingenieros de software con experiencia, especialistas en DevOps y expertos técnicos listos para integrarse a tu equipo."
+    }
+  ]
+},
+
+  "promo": {
+    "title": "Software escalable, IA y automatización para empresas en crecimiento",
+    "image1Alt": "Equipo colaborando en desarrollo de software",
+    "image2Alt": "Espacio de ingeniería y planificación de proyectos"
+  },
+  
+  "faqsHome": {
+    "items": [
+      {
+        "question": "01. ¿En qué se especializa JoinBits?",
+        "answer": "JoinBits ofrece ingeniería de software a medida, automatización impulsada por IA, arquitectura cloud y soluciones tecnológicas industriales. Ayudamos a las empresas a modernizar sistemas, mejorar el rendimiento y escalar de forma eficiente."
+      },
+      {
+        "question": "02. ¿Ofrecen staffing de ingeniería?",
+        "answer": "Sí. Ofrecemos ingenieros por contrato, staff augmentation y equipos dedicados que se integran sin fricción con tu organización. Nuestro talento cubre desarrollo de software, DevOps, IA e ingeniería de automatización."
+      },
+      {
+        "question": "03. ¿Pueden encargarse de la entrega completa de un proyecto?",
+        "answer": "Claro. Gestionamos proyectos de principio a fin—desde arquitectura y desarrollo hasta despliegue y escalamiento—garantizando soluciones seguras, escalables y listas para producción."
+      },
+      {
+        "question": "04. ¿Qué tan rápido pueden empezar?",
+        "answer": "Para engagements de staffing, podemos asignar ingenieros calificados rápidamente según tus requisitos. Para proyectos completos, los tiempos dependen del alcance, pero nuestro proceso está diseñado para avanzar rápido sin sacrificar calidad."
+      }
+    ]
+  },
+  
+  "header": {
+    "logoAlt": "Joinibits",
+    "menu": "Menú",
+    "ctaPrimary": "Trabajemos juntos",
+    "ctaSecondary": "Contáctanos"
+  },
+  
+
+  "menu": {
+    "home": "Inicio",
+    "consulting": "Consultoría",
+    "about": "Nosotros",
+    "services": {
+      "title": "Servicios",
+      "webDevelopment": "Desarrollo Web",
+      "customSoftware": "Software a Medida",
+      "cloudIntegration": "Integración Cloud"
+    }
+  },
+  
+  "contact": {
+    "form": {
+      "fullNameLabel": "Nombre completo",
+      "fullNamePlaceholder": "John Smith",
+      "businessEmailLabel": "Correo empresarial",
+      "businessEmailPlaceholder": "john@empresa.com",
+      "projectDetailsLabel": "Detalles del proyecto",
+      "projectDetailsPlaceholder": "Describe brevemente tu proyecto, requisitos técnicos, timeline y objetivos.",
+      "tipPrefix": "Todos los campos son obligatorios. Al enviar el formulario aceptas los",
+      "terms": "Términos y Condiciones",
+      "and": "y",
+      "privacy": "Política de Privacidad",
+      "send": "Enviar mensaje"
+    }
+  
+},
+
+  "contact": {
+    "address": {
+      "title": "Dirección",
+      "text": "16703 Early Riser Ave Suite 568, Land O' Lakes, FL 34638",
+      "linkText": "Ver en Google Maps"
+    },
+    "email": {
+      "title": "Correo",
+      "text": "contact@joinbitstech.com",
+      "linkText": "Escríbenos"
+    },
+    "form": {
+      "fullNameLabel": "Nombre completo",
+      "fullNamePlaceholder": "Juan Pérez",
+      "businessEmailLabel": "Correo empresarial",
+      "businessEmailPlaceholder": "juan@empresa.com",
+      "projectDetailsLabel": "Detalles del proyecto",
+      "projectDetailsPlaceholder": "Describe brevemente tu proyecto, requisitos técnicos, timeline y objetivos.",
+      "tipPrefix": "Todos los campos son obligatorios. Al enviar el formulario aceptas los",
+      "terms": "Términos y Condiciones",
+      "and": "y",
+      "privacy": "Política de Privacidad",
+      "send": "Enviar mensaje"
+    }
+  },
+
+  "featuresConsulting": {
+    "enterprise": "Equipos de Ingeniería Empresarial",
+    "saas": "Empresas SaaS y de Producto",
+    "cloudDevops": "Entornos Cloud y DevOps",
+    "industrial": "Sistemas Industriales y de Automatización"
+  },
+  
+  "commonConsulting": {
+    "contactUs": "Contáctanos"
+  },
+  
+  "benefits2": {
+    "caption": "Beneficios de Ingeniería",
+    "title": "¿Por qué elegir JoinBits Staffing?",
+    "description": "Conectamos empresas con ingenieros altamente calificados que se integran sin fricción a equipos existentes. Nuestro modelo prioriza velocidad, excelencia técnica e impacto sostenido en la entrega.",
+    "metrics": {
+      "fast": {
+        "title": "Ejecución Rápida",
+        "descr": "Ingenieros listos en días, no meses"
+      },
+      "senior": {
+        "title": "Talento Senior",
+        "descr": "Experiencia comprobada en entornos empresariales"
+      }
+    }
+  },
+  
+  "benefitsConsulting": {
+    "grid": {
+      "uniqueDesign": {
+        "title": "Asignación Estratégica de Ingenieros",
+        "description": "Alineamos ingenieros con tu stack tecnológico, objetivos y cultura empresarial."
+      },
+      "qualityCode": {
+        "title": "Código Listo para Producción",
+        "description": "Ingenieros experimentados entregando soluciones escalables, mantenibles y seguras."
+      },
+      "cleanMinimal": {
+        "title": "Integración Sin Fricción",
+        "description": "Nuestros ingenieros se integran a tus procesos sin afectar la velocidad del equipo."
+      },
+      "premiumSupport": {
+        "title": "Soporte Continuo",
+        "description": "Acompañamiento técnico y responsabilidad durante toda la colaboración."
+      }
+    }
+  
+},
+
+  "aboutmain": {
+    "steps": {
+      "title": "Tres pasos simples para entregar tecnología confiable",
+      "subtitle": "En JoinBits seguimos un enfoque estructurado que reduce riesgos, aumenta la claridad y garantiza resultados escalables.",
+      "items": [
+        {
+          "label": "Paso 1",
+          "title": "Entender y Alinear",
+          "description": "Definimos alcance, objetivos, restricciones y métricas de éxito antes de escribir una sola línea de código."
+        },
+        {
+          "label": "Paso 2",
+          "title": "Construir con Disciplina",
+          "description": "Implementamos arquitectura escalable, buen logging y despliegues controlados para garantizar mantenibilidad a largo plazo."
+        },
+        {
+          "label": "Paso 3",
+          "title": "Desplegar y Optimizar",
+          "description": "Después del lanzamiento, monitoreamos, mejoramos y damos soporte para mantener los sistemas estables y en evolución."
+        }
+      ]
+    },
+    "hero": {
+      "title": "Construimos sistemas que escalan de la idea a producción.",
+      "subtitle": "JoinBits es un aliado tecnológico en IA, nube, automatización y software a la medida. Ayudamos a los equipos a entregar más rápido, reducir riesgos y aumentar la confiabilidad."
+    },
+    "why": {
+      "caption": "Por qué JoinBits",
+      "title": "Un partner que mezcla ingeniería + ejecución.",
+      "description": "Combinamos experiencia de ingeniería real con prácticas modernas de entrega para crear soluciones seguras, mantenibles y listas para operar no solo para demostraciones.",
+      "stats": {
+        "projects": {
+          "value": "50+",
+          "label": "Proyectos entregados"
+        },
+        "response": {
+          "value": "< 24h",
+          "label": "Tiempo promedio de respuesta"
+        }
+      }
+    },
+    "values": {
+      "caption": "Nuestros valores",
+      "title": "Creemos en la responsabilidad, la transparencia y los resultados medibles."
+    },
+    "cta": {
+      "description": "Cuéntanos qué estás construyendo. Te ayudamos a planear, ejecutar y escalar con confianza.",
+      "button": "Contáctanos"
+    },
+    "images": {
+      "teamAlt": "Equipo de JoinBits colaborando en un proyecto",
+      "valuesAlt": "Conversación de equipo de ingeniería",
+      "decorationAlt": ""
+    },
+     "serviceTabs": {
+      "tabs": {
+        "aiCloud": "IA y Nube",
+        "automation": "Automatización",
+        "software": "Software a la Medida",
+        "staffing": "Talento Técnico",
+        "delivery": "Entrega y Soporte"
+      },
+      "panes": {
+        "aiCloud": {
+          "quote": "La velocidad importa, pero la confiabilidad importa más. Diseñamos sistemas que siguen funcionando cuando llega la realidad.",
+          "author": "Ingeniería JoinBits",
+          "p1": "Ayudamos a los equipos a modernizar su stack con arquitectura cloud native, APIs seguras y pipelines de datos que escalan sin sorpresas.",
+          "p2": "Desde bases en AWS/Azure hasta integraciones con IA, nos enfocamos en diseño limpio, resultados medibles y operación lista para producción."
+        },
+        "automation": {
+          "quote": "Automatizar no es reemplazar personas es quitar fricción para que los equipos avancen más rápido.",
+          "author": "Automatización JoinBits",
+          "p1": "Construimos y mantenemos automatización para flujos industriales y de negocio: integraciones PLC/SCADA, monitoreo y sistemas orientados a eventos.",
+          "p2": "Priorizamos disponibilidad, trazabilidad y despliegues seguros especialmente donde el downtime cuesta caro."
+        },
+        "software": {
+          "quote": "Lo simple es difícil. Lo hacemos simple haciendo la ingeniería dura desde el principio.",
+          "author": "Software JoinBits",
+          "p1": "Entregamos apps web, herramientas internas e integraciones que reducen trabajo manual y mejoran la visibilidad entre equipos.",
+          "p2": "Código limpio, buen logging y pruebas pragmáticas para que tu sistema sea más fácil de cambiar el próximo mes que hoy."
+        },
+        "staffing": {
+          "quote": "El ingeniero correcto no solo escribe código, reduce riesgos y aumenta el impulso del equipo.",
+          "author": "Talento JoinBits",
+          "p1": "Aportamos talento senior en software, nube y automatización para reforzar tu equipo o liderar la entrega de punta a punta.",
+          "p2": "Nos importa la comunicación y la responsabilidad recibes ingenieros que piensan como partners, no como cerradores de tickets."
+        },
+        "delivery": {
+          "quote": "Una gran entrega es aburrida: planes claros, releases predecibles y sistemas en los que puedes confiar.",
+          "author": "Delivery JoinBits",
+          "p1": "Alineamos alcance, tiempos y métricas de éxito antes de construir, luego entregamos iterativamente con visibilidad y responsabilidad.",
+          "p2": "Después del lanzamiento, apoyamos monitoreo, respuesta a incidentes y mejora continua para que tu producto siga mejorando."
+        }
+      }
+    }
+
+},
+
+  "customsoftware": {
+    "hero": {
+      "title": "Desarrollo de Software a la Medida",
+      "subtitle": "Construye software adaptado a tu operación seguro, escalable y diseñado para rendimiento en el mundo real. Desde MVPs hasta plataformas empresariales, entregamos apps web, apps móviles, APIs e integraciones listas para producción.",
+      "bullets": [
+        "MVPs de producto y plataformas completas",
+        "APIs, integraciones y automatización",
+        "Arquitectura segura y lista para la nube"
+      ],
+      "cta": "Agenda una llamada de descubrimiento"
+    },
+    "intro": {
+      "title": "Software construido alrededor de tu negocio",
+      "lead": "Si tu negocio depende de hojas de cálculo, herramientas desconectadas o sistemas legados lentos, podemos ayudarte a modernizar. JoinBits crea software a la medida que elimina fricción y habilita escala operativa.",
+      "body": "Diseñamos sistemas con arquitectura limpia, seguridad sólida y mantenibilidad a largo plazo. Nuestro equipo entrega aplicaciones full stack, plataformas internas, dashboards, automatización de flujos, integraciones y APIs modernas — con comunicación transparente y entregas confiables.",
+      "bullets": [
+        "Aplicaciones web (React/Next.js, .NET, Node)",
+        "APIs backend, microservicios e integraciones",
+        "Despliegue en la nube (AWS/Azure), DevOps y CI/CD",
+        "Modernización y refactor de sistemas legados"
+      ],
+      "cta": "Solicitar cotización"
+    },
+    "process": {
+      "title": "Cómo trabajamos",
+      "subtitle": "Un proceso estructurado que minimiza riesgos, alinea a los interesados y entrega valor rápido sin sacrificar calidad.",
+      "steps": [
+        "1. Descubrimiento y alcance",
+        "2. Arquitectura y desarrollo",
+        "3. QA, lanzamiento y soporte"
+      ]
+    },
+    "split": {
+      "title": "Listo para producción",
+      "titleAccent": "desde el día uno",
+      "body": "No solo “lo codeamos”. Construimos software con pruebas, seguridad, observabilidad y documentación para que tu producto sea estable y fácil de evolucionar."
+    },
+    "skills": {
+      "title": "Nuestra experiencia principal",
+      "body": "Nuestro equipo entrega ingeniería full stack sobre arquitecturas web modernas, plataformas cloud native, ecosistemas de APIs e integraciones empresariales. Diseñamos sistemas pensando en escalabilidad, seguridad y mantenibilidad a largo plazo aplicando prácticas DevOps de nivel producción, pruebas automatizadas, optimización de rendimiento y principios de arquitectura limpia en cada capa. Desde servicios backend y pipelines de datos hasta experiencias frontend y automatización de despliegues, construimos software que rinde bajo demandas reales del negocio."
+    },
+    "cta": {
+      "text": "¿Listo para construir software a la medida que escale con tu negocio? Hablemos de tus objetivos y arquitectura.",
+      "button": "Contáctanos"
+    },
+    "images": {
+      "alt1": "Ingeniería de software a la medida",
+      "alt2": "Desarrollo de producto y plataformas",
+      "alt3": "Desarrollo de software"
+    }
+  },
+  
+  "cloudintegration": {
+     "cards": {
+
+  "assessment": {
+    "title": "Evaluación de Preparación Cloud y Revisión de Arquitectura",
+    "tag": "Diagnóstico y Hoja de Ruta",
+    "f1": "Auditoría de infraestructura y mapeo de dependencias",
+    "f2": "Evaluación de postura de seguridad y análisis de riesgos",
+    "f3": "Estimación de costos y dimensionamiento en la nube",
+    "f4": "Plan de migración con fases priorizadas",
+    "d1": "Ejecución completa de la migración"
+  },
+
+  "migration": {
+    "title": "Migración y Modernización",
+    "tag": "Ejecución y Estabilización",
+    "f1": "Migración de cargas de trabajo (AWS/Azure/Híbrido)",
+    "f2": "Modernización de bases de datos y apoyo en refactorización",
+    "f3": "Estrategia de migración con cero o mínima interrupción",
+    "f4": "Monitoreo, registro de eventos y optimización de rendimiento",
+    "d1": "Servicios gestionados a largo plazo"
+  },
+
+  "platform": {
+  "title": "Ingeniería Cloud y DevOps",
+  "tag": "Construcción para Escalar",
+  "f1": "Infraestructura como Código (Terraform, Bicep, CloudFormation)",
+  "f2": "Pipelines CI/CD y automatización de despliegues",
+  "f3": "Contenedores, Kubernetes y estándares de implementación",
+  "f4": "Observabilidad, alertas y preparación ante incidentes",
+  "d1": "Plantillas genéricas para todos los casos"
+}
+
+},
+    "hero": {
+      "title": "Integración y Arquitectura en la Nube",
+      "description": "Moderniza tu infraestructura con integraciones seguras, escalables y cloud native. Conectamos sistemas, migramos cargas de trabajo y diseñamos entornos resilientes para un crecimiento sostenible."
+    },
+    "mission": {
+  "title": "Nuestra Misión en la Nube",
+  "description": "En JoinBits lideramos iniciativas de transformación cloud con un enfoque estratégico y orientado a resultados. Nuestra misión es acompañar a las organizaciones en la modernización integral de su infraestructura tecnológica, migrando sistemas fragmentados y arquitecturas heredadas hacia plataformas cloud seguras, interoperables y preparadas para escalar. Diseñamos soluciones de integración que optimizan desempeño, fortalecen la postura de ciberseguridad y habilitan eficiencia operativa medible. A través de arquitecturas robustas, automatización, observabilidad avanzada y prácticas DevOps de nivel producción, construimos entornos digitales resilientes que permiten innovación continua y ventaja competitiva sostenible."
+},
+    "jumpstart": {
+      "title": "Acelera tu Transformación en la Nube",
+      "description": "Ya sea que estés migrando sistemas legados, integrando plataformas SaaS o desarrollando servicios cloud native, entregamos soluciones seguras y listas para producción en AWS, Azure y entornos híbridos.",
+      "cta": "Inicia tu Proyecto en la Nube"
+    }
+  },
+  
+  "featuresCloud": {
+    "architecture": "Diseño de Arquitectura Cloud Native (AWS, Azure, Híbrida)",
+    "migration": "Migración de Sistemas Legados y Modernización de Cargas",
+    "devops": "Automatización DevOps, CI/CD e Infraestructura como Código",
+    "security": "Seguridad en la Nube, Gobernanza y Marcos de Cumplimiento"
+  },
+
+ 
+  "benefitsCloud": {
+    "grid": {
+      "cloudStrategy": {
+        "title": "Estrategia Cloud y Alineación Arquitectónica",
+        "description": "Arquitecturas cloud alineadas a los objetivos del negocio diseñadas para escalabilidad y eficiencia a largo plazo."
+      },
+      "securityCompliance": {
+        "title": "Seguridad, Gobierno y Cumplimiento",
+        "description": "Entornos seguros con control de identidades, cifrado y estándares de gobernanza empresarial."
+      },
+      "scalabilityPerformance": {
+        "title": "Escalabilidad y Optimización",
+        "description": "Plataformas cloud de alto rendimiento preparadas para crecimiento, picos de tráfico y cargas variables."
+      },
+      "managedOptimization": {
+        "title": "Optimización Continua y Control de Costos",
+        "description": "Monitoreo constante y optimización de costos para garantizar confiabilidad y gasto cloud predecible."
+      }
+    }
+  },
+  
+  "benefits1": {
+    "caption": "Integración Cloud",
+    "title": "Construyendo Fundamentos Cloud Seguros y Escalables",
+    "description": "Diseñamos e implementamos entornos en la nube que mejoran el rendimiento, reducen riesgos operativos y permiten crecimiento sostenible. Combinamos experiencia en arquitectura, seguridad y automatización para entregar plataformas listas para producción.",
+
+    "metrics": {
+      "fast": {
+        "title": "Despliegues Más Rápidos",
+        "descr": "Pipelines automatizados e infraestructura como código aceleran entregas y reducen errores manuales."
+      },
+      "senior": {
+        "title": "Seguridad de Nivel Empresarial",
+        "descr": "Arquitecturas secure by design alineadas a gobernanza, cumplimiento y estándares internacionales."
+      }
+    }
+  },
+  
+
+    
+  "webDevelopment": {
+     "stats": {
+  "fastLaunch": "Diseñamos, desarrollamos, probamos y lanzamos sitios web modernos y de alto rendimiento en tiempos acelerados sin comprometer la calidad. Desde la investigación de UX y el diseño de interfaces hasta el desarrollo backend, pruebas de QA y despliegue en producción, nuestro proceso optimizado garantiza que tu sitio web salga al aire rápidamente cumpliendo estándares de nivel empresarial.",
+
+  "pageSpeed": "Cada sitio web que construimos sigue una arquitectura enfocada en el rendimiento desde el primer día. Optimizamos la estructura del código, la entrega de imágenes, las estrategias de caché y los Core Web Vitals para asegurar tiempos de carga rápidos, mejor experiencia de usuario y un posicionamiento SEO más sólido. La velocidad no es un extra, es parte fundamental del diseño.",
+
+  "leads": "Nuestros sitios están diseñados con una estrategia de conversión en el centro. Implementamos llamados a la acción claros, flujos optimizados de aterrizaje, elementos visuales que generan confianza y decisiones de UX basadas en datos para convertir visitantes en leads calificados y oportunidades reales de negocio.",
+
+  "seoMarketing": "Más allá del desarrollo, ofrecemos soporte integral en SEO y marketing digital. Desde investigación de palabras clave y optimización técnica hasta estructuración de contenido y seguimiento con analítica avanzada, nos aseguramos de que tu sitio web no solo sea atractivo, sino también visible, escalable y preparado para impulsar el crecimiento a largo plazo."
+},
+    "about": {
+      "caption": "Nuestra Experiencia",
+      "title": "Creamos sitios web que convierten, posicionan y escalan.",
+      "link": "Obten tu cotización gratuita"
+    },
+    "achievements": {
+      "title": "Resultados reales para negocios en crecimiento.",
+      "description": "Desde diseño y desarrollo web hasta estrategia SEO y ejecución de marketing digital, ayudamos a las marcas a crecer con impacto medible.",
+      "cta": "Solicita una cotización gratuita"
+    },
+    "cta": {
+      "description": "Combinamos diseño, desarrollo, SEO y marketing para convertir tu sitio web en un motor de crecimiento."
+    },
+    "howWeWork": {
+      "title": "Cómo trabajamos",
+      "cta": "Inicia tu proyecto"
+    },
+    "blog": {
+      "caption": "Tendencias & Estrategia",
+      "title": "Últimas tendencias y estrategias digitales",
+      "link": "Leer más en nuestro blog"
+    },
+  
+
+    "hero": {
+      "caption": "Desarrollo Web JoinBits",
+      "title": "Sitios web modernos que posicionan y hacen crecer tu negocio.",
+      "description": "Diseñamos y desarrollamos sitios web de alto rendimiento alineados a tu marca. Desde diseño UX/UI hasta optimización SEO e integración con marketing digital, creamos plataformas que generan leads y crecimiento medible.",
+      "ctaPrimary": "Obtén tu cotización hoy",
+      "ctaSecondary": "¿Cómo funciona?",
+      "scroll": "Desplázate",
+      "imageAlt": "Portafolio desarrollo web JoinBits"
+    },
+    
+
+    "featuresweb": {
+       "title": "¿Por qué elegir JoinBits?",
+      "description": "Desde desarrollo de alto rendimiento y diseño enfocado en conversión hasta bases sólidas de SEO e integración con marketing digital, cada sitio está diseñado para atraer tráfico, generar leads calificados y escalar junto a tu negocio."
+    },
+    "featuresGrid": {
+      "performance": {
+        "title": "Alto Rendimiento",
+        "description": "Desarrollamos sitios web rápidos y optimizados con arquitectura limpia, recursos eficientes y buenas prácticas de rendimiento."
+      },
+      "scalableCode": {
+        "title": "Código Limpio y Escalable",
+        "description": "Nuestro enfoque de desarrollo prioriza la mantenibilidad y escalabilidad, permitiendo que tu sitio web crezca junto con tu negocio."
+      },
+      "seoReady": {
+        "title": "Base Optimizada para SEO",
+        "description": "Cada sitio web incluye fundamentos técnicos de SEO, estructura preparada para datos estructurados, metadatos optimizados y mejoras de rendimiento."
+      },
+      "growthSupport": {
+        "title": "Soporte para Crecimiento",
+        "description": "Más allá del lanzamiento, ofrecemos guía en SEO, integración con analítica y soporte en marketing digital para optimizar continuamente tu sitio."
+      }
+    }
+  }
+
+
+}
